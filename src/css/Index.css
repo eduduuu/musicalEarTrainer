@@ -1,0 +1,12 @@
+main {
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btn-pages {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

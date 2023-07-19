@@ -1,0 +1,14 @@
+header {
+    width: 100%;
+    background-color: black;
+    color: azure;
+    padding: 15px;
+}
+
+header h1 {
+    display: inline;
+}
+
+header nav {
+    display: inline;
+}
